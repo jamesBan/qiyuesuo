@@ -1,6 +1,6 @@
 <?php
 
-namespace qiyuesuo\service\impl;
+namespace qiyuesuo\impl;
 
 use qiyuesuo\common\SDKClient;
 use qiyuesuo\service\SealService;

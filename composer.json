@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4": {
-            "qiyuesuo\\": "src/qiyuesuo"
+            "qiyuesuo\\": "src"
         }
     }
 }

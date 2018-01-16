@@ -5,7 +5,7 @@ namespace qiyuesuo\service\impl;
 use qiyuesuo\common\SDKClient;
 use qiyuesuo\service\SealService;
 
-class SealServiceimpl implements SealService
+class SealServiceImpl implements SealService
 {
     const FIND_COMPANYSEAL = '/seal?sealId=';
     const CREATE_SEALBYCOMPANY = "/seal/companyseal";

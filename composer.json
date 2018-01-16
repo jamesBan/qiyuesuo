@@ -1,0 +1,19 @@
+{
+    "name": "jamesBan/qiyuesuo",
+    "description": "composer qiyuesuo sdk",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "jamesBan",
+            "email": "345874331@qq.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {},
+    "autoload":{
+        "psr-4": {
+            "qiyuesuo\\": "src/"
+        }
+    }
+}
